@@ -30,8 +30,8 @@ ALLOWED_HOSTS = [
     "localhost:3000",
     "127.0.0.1",
     "0.0.0.0",
-    "hugomitoire.com",
-    "hugomitoire.com:8001"
+    "167.71.190.56",
+    "167.71.190.56:8001"
 ]
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
